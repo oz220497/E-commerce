@@ -1,0 +1,15 @@
+{
+  "Buyers": [
+    {
+      "CartHistory": [],
+      "TotalCartValue": 0
+    },
+    {
+      "CartHistory": [],
+      "TotalCartValue": 0
+    }
+  ],
+  "Sellers": [
+    {}
+  ]
+}

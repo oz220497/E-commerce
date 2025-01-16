@@ -1,0 +1,29 @@
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\E-commerce part 4 Omer and Roaa.exe.config
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\E-commerce part 4 Omer and Roaa.exe
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\E-commerce part 4 Omer and Roaa.pdb
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Buffers.dll
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Memory.dll
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Text.Json.dll
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.ValueTuple.dll
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Buffers.xml
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Memory.xml
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Text.Json.xml
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\bin\Debug\System.ValueTuple.xml
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\obj\Debug\E-commerce part 4 Omer and Roaa.csproj.AssemblyReference.cache
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\obj\Debug\E_commerce_part_4_Omer_and_Roaa.Form1.resources
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\obj\Debug\E_commerce_part_4_Omer_and_Roaa.Properties.Resources.resources
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\obj\Debug\E-commerce part 4 Omer and Roaa.csproj.GenerateResource.cache
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\obj\Debug\E-commerce part 4 Omer and Roaa.csproj.CoreCompileInputs.cache
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\obj\Debug\E-commer.CF5D66BB.Up2Date
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\obj\Debug\E-commerce part 4 Omer and Roaa.exe
+C:\Users\omerz\source\repos\E-commerce part 4 Omer and Roaa\obj\Debug\E-commerce part 4 Omer and Roaa.pdb
